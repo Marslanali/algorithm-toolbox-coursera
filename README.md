@@ -51,7 +51,7 @@ The assignment solutions are all in C++ and the below solutions are **for refere
 
 - [Maximum Amount of Gold]
 - [Partitioning Souvenirs]
-- [Maximum Value of an Arithmetic Expression](/assignment%20solutions/6.3%20arithmetic%20expression.py)
+- [Maximum Value of an Arithmetic Expression]
 
 
 
