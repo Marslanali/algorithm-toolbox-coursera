@@ -2,14 +2,14 @@
 
 This repository contains all solutions for the course [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) offered on Coursera. 
 
-The assignment solutions are all in C++. The below solutions are **for reference only**. Please implement your own algorithms to pass the course.
+The assignment solutions are all in C++ and the below solutions are **for reference only**.
 
-### Week 1- Programming Challenges ([PDF](/Assignments/week1_programming_challenges.pdf))
+### Week 1- Programming Challenges ([PDF](/week1/week1_programming_challenges.pdf))
 
 - [Sum of Two Digits]
 - [Maximum Pairwise Product]
 
-### Week 2- Algorithmic Warm-up ([PDF](/Assignments/week2_algorithmic_warmup.pdf))
+### Week 2- Algorithmic Warm-up ([PDF](/week2/week2_algorithmic_warmup.pdf))
 
 - [Fibonacci Number]
 - [Last Digit of a Large Fibonacci Number]
