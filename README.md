@@ -6,13 +6,14 @@ The assignment solutions are all in C++ and the below solutions are **for refere
 
 ### Week 1- Programming Challenges ([PDF](/week1/week1_programming_challenges.pdf))
 
-- [Sum of Two Digits]
-- [Maximum Pairwise Product]
+- [Sum of Two Digits](/week1/src/sum-of-two-digits/aplusb.cpp)
+- [Maximum Pairwise Product](/week1/src/max-pair-wise-product/max_pairwise_product.cpp)
+
 
 ### Week 2- Algorithmic Warm-up ([PDF](/week2/week2_algorithmic_warmup.pdf))
 
-- [Fibonacci Number]
-- [Last Digit of a Large Fibonacci Number]
+- [Fibonacci Number](/week2/src/1_fibonacci_number/fibonacci.cpp)
+- [Last Digit of a Large Fibonacci Number](/week2/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp)
 - [Greatest Common Divisor]
 - [Least Common Multiple]
 - [Fibonacci Number Again]
