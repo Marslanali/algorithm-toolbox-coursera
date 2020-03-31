@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.5.1)
+project(week2)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(1_fibonacci_number ${PROJECT_SOURCE_DIR}/src/1_fibonacci_number/fibonacci.cpp)
+add_executable(2_last_digit_of_fibonacci_number ${PROJECT_SOURCE_DIR}/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp)
+add_executable(3_greatest_common_divisor ${PROJECT_SOURCE_DIR}/src/3_greatest_common_divisor/gcd.cpp)
+add_executable(4_least_common_multiple ${PROJECT_SOURCE_DIR}/src/4_least_common_multiple/lcm.cpp)
+add_executable(5_fibonacci_number_again ${PROJECT_SOURCE_DIR}/src/5_fibonacci_number_again/fibonacci_huge.cpp)
+add_executable(6_last_digit_of_the_sum_of_fibonacci_numbers ${PROJECT_SOURCE_DIR}/src/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.cpp)
+add_executable(7_last_digit_of_the_sum_of_fibonacci_numbers_again 
+		${PROJECT_SOURCE_DIR}/src/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.cpp)
+add_executable(8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers 
+		${PROJECT_SOURCE_DIR}/src/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.cpp)
+
