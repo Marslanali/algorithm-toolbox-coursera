@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/src/4_maximum_advertisement_revenue/dot_product.cpp
+algorithm
+-
+iostream
+-
+vector
+-
+

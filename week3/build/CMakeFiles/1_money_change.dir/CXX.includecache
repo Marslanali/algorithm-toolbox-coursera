@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/src/1_money_change/change.cpp
+iostream
+-
+
