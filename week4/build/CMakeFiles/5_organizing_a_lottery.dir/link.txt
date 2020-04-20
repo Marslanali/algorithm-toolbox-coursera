@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/5_organizing_a_lottery.dir/src/5_organizing_a_lottery/points_and_segments.cpp.o  -o 5_organizing_a_lottery 

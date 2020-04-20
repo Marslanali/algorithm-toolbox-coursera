@@ -1,0 +1,8 @@
+/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/build/CMakeFiles/edit_cache.dir
+/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/build/CMakeFiles/6_closest_points.dir
+/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/build/CMakeFiles/5_organizing_a_lottery.dir
+/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/build/CMakeFiles/rebuild_cache.dir
+/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/build/CMakeFiles/1_binary_search.dir
+/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/build/CMakeFiles/2_majority_element.dir
+/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/build/CMakeFiles/3_improving_quicksort.dir
+/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/build/CMakeFiles/4_number_of_inversions.dir

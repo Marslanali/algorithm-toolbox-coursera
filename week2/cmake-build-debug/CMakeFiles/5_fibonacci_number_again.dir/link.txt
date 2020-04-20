@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/5_fibonacci_number_again.dir/src/5_fibonacci_number_again/fibonacci_huge.cpp.o  -o 5_fibonacci_number_again 

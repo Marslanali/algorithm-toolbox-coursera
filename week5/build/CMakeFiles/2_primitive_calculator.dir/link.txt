@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/2_primitive_calculator.dir/src/2_primitive_calculator/primitive_calculator.cpp.o  -o 2_primitive_calculator 
