@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2"
+CMAKE_SOURCE_DIR = /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build"
+CMAKE_BINARY_DIR = /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/4_least_common_multiple.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/4_least_common_multiple.dir/flags.make
 
 CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.o: CMakeFiles/4_least_common_multiple.dir/flags.make
 CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.o: ../src/4_least_common_multiple/lcm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.o -c "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/src/4_least_common_multiple/lcm.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.o -c /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/src/4_least_common_multiple/lcm.cpp
 
 CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/src/4_least_common_multiple/lcm.cpp" > CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/src/4_least_common_multiple/lcm.cpp > CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.i
 
 CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/src/4_least_common_multiple/lcm.cpp" -o CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/src/4_least_common_multiple/lcm.cpp -o CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.s
 
 CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.o.requires:
 
@@ -91,7 +91,7 @@ CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.o.pro
 4_least_common_multiple: CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.o
 4_least_common_multiple: CMakeFiles/4_least_common_multiple.dir/build.make
 4_least_common_multiple: CMakeFiles/4_least_common_multiple.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 4_least_common_multiple"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 4_least_common_multiple"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/4_least_common_multiple.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/4_least_common_multiple.dir/clean:
 .PHONY : CMakeFiles/4_least_common_multiple.dir/clean
 
 CMakeFiles/4_least_common_multiple.dir/depend:
-	cd "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2" "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2" "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build" "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build" "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles/4_least_common_multiple.dir/DependInfo.cmake" --color=$(COLOR)
+	cd /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2 /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2 /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles/4_least_common_multiple.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/4_least_common_multiple.dir/depend
 

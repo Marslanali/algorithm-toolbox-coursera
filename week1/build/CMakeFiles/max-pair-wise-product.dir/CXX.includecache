@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1/src/max-pair-wise-product/max_pairwise_product.cpp
+iostream
+-
+vector
+-
+

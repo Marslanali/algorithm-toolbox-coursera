@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/3_greatest_common_divisor.dir/src/3_greatest_common_divisor/gcd.cpp.o  -o 3_greatest_common_divisor 

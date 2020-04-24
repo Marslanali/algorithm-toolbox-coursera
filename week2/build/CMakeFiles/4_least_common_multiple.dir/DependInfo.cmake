@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/src/4_least_common_multiple/lcm.cpp" "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.o"
+  "/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/src/4_least_common_multiple/lcm.cpp" "/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles/4_least_common_multiple.dir/src/4_least_common_multiple/lcm.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

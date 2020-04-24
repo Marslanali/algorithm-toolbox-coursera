@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2"
+CMAKE_SOURCE_DIR = /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build"
+CMAKE_BINARY_DIR = /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build
 
 #=============================================================================
 # Target rules for target CMakeFiles/6_last_digit_of_the_sum_of_fibonacci_numbers.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-da
 CMakeFiles/6_last_digit_of_the_sum_of_fibonacci_numbers.dir/all:
 	$(MAKE) -f CMakeFiles/6_last_digit_of_the_sum_of_fibonacci_numbers.dir/build.make CMakeFiles/6_last_digit_of_the_sum_of_fibonacci_numbers.dir/depend
 	$(MAKE) -f CMakeFiles/6_last_digit_of_the_sum_of_fibonacci_numbers.dir/build.make CMakeFiles/6_last_digit_of_the_sum_of_fibonacci_numbers.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" --progress-num=11,12 "Built target 6_last_digit_of_the_sum_of_fibonacci_numbers"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles --progress-num=11,12 "Built target 6_last_digit_of_the_sum_of_fibonacci_numbers"
 .PHONY : CMakeFiles/6_last_digit_of_the_sum_of_fibonacci_numbers.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/6_last_digit_of_the_sum_of_fibonacci_numbers.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/6_last_digit_of_the_sum_of_fibonacci_numbers.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/6_last_digit_of_the_sum_of_fibonacci_numbers.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles 0
 .PHONY : CMakeFiles/6_last_digit_of_the_sum_of_fibonacci_numbers.dir/rule
 
 # Convenience name for target.
@@ -103,7 +103,7 @@ clean: CMakeFiles/6_last_digit_of_the_sum_of_fibonacci_numbers.dir/clean
 CMakeFiles/1_fibonacci_number.dir/all:
 	$(MAKE) -f CMakeFiles/1_fibonacci_number.dir/build.make CMakeFiles/1_fibonacci_number.dir/depend
 	$(MAKE) -f CMakeFiles/1_fibonacci_number.dir/build.make CMakeFiles/1_fibonacci_number.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" --progress-num=1,2 "Built target 1_fibonacci_number"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles --progress-num=1,2 "Built target 1_fibonacci_number"
 .PHONY : CMakeFiles/1_fibonacci_number.dir/all
 
 # Include target in all.
@@ -113,9 +113,9 @@ all: CMakeFiles/1_fibonacci_number.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1_fibonacci_number.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1_fibonacci_number.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles 0
 .PHONY : CMakeFiles/1_fibonacci_number.dir/rule
 
 # Convenience name for target.
@@ -140,7 +140,7 @@ clean: CMakeFiles/1_fibonacci_number.dir/clean
 CMakeFiles/7_last_digit_of_the_sum_of_fibonacci_numbers_again.dir/all:
 	$(MAKE) -f CMakeFiles/7_last_digit_of_the_sum_of_fibonacci_numbers_again.dir/build.make CMakeFiles/7_last_digit_of_the_sum_of_fibonacci_numbers_again.dir/depend
 	$(MAKE) -f CMakeFiles/7_last_digit_of_the_sum_of_fibonacci_numbers_again.dir/build.make CMakeFiles/7_last_digit_of_the_sum_of_fibonacci_numbers_again.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" --progress-num=13,14 "Built target 7_last_digit_of_the_sum_of_fibonacci_numbers_again"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles --progress-num=13,14 "Built target 7_last_digit_of_the_sum_of_fibonacci_numbers_again"
 .PHONY : CMakeFiles/7_last_digit_of_the_sum_of_fibonacci_numbers_again.dir/all
 
 # Include target in all.
@@ -150,9 +150,9 @@ all: CMakeFiles/7_last_digit_of_the_sum_of_fibonacci_numbers_again.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/7_last_digit_of_the_sum_of_fibonacci_numbers_again.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/7_last_digit_of_the_sum_of_fibonacci_numbers_again.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles 0
 .PHONY : CMakeFiles/7_last_digit_of_the_sum_of_fibonacci_numbers_again.dir/rule
 
 # Convenience name for target.
@@ -177,7 +177,7 @@ clean: CMakeFiles/7_last_digit_of_the_sum_of_fibonacci_numbers_again.dir/clean
 CMakeFiles/2_last_digit_of_fibonacci_number.dir/all:
 	$(MAKE) -f CMakeFiles/2_last_digit_of_fibonacci_number.dir/build.make CMakeFiles/2_last_digit_of_fibonacci_number.dir/depend
 	$(MAKE) -f CMakeFiles/2_last_digit_of_fibonacci_number.dir/build.make CMakeFiles/2_last_digit_of_fibonacci_number.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" --progress-num=3,4 "Built target 2_last_digit_of_fibonacci_number"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles --progress-num=3,4 "Built target 2_last_digit_of_fibonacci_number"
 .PHONY : CMakeFiles/2_last_digit_of_fibonacci_number.dir/all
 
 # Include target in all.
@@ -187,9 +187,9 @@ all: CMakeFiles/2_last_digit_of_fibonacci_number.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2_last_digit_of_fibonacci_number.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2_last_digit_of_fibonacci_number.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles 0
 .PHONY : CMakeFiles/2_last_digit_of_fibonacci_number.dir/rule
 
 # Convenience name for target.
@@ -214,7 +214,7 @@ clean: CMakeFiles/2_last_digit_of_fibonacci_number.dir/clean
 CMakeFiles/5_fibonacci_number_again.dir/all:
 	$(MAKE) -f CMakeFiles/5_fibonacci_number_again.dir/build.make CMakeFiles/5_fibonacci_number_again.dir/depend
 	$(MAKE) -f CMakeFiles/5_fibonacci_number_again.dir/build.make CMakeFiles/5_fibonacci_number_again.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" --progress-num=9,10 "Built target 5_fibonacci_number_again"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles --progress-num=9,10 "Built target 5_fibonacci_number_again"
 .PHONY : CMakeFiles/5_fibonacci_number_again.dir/all
 
 # Include target in all.
@@ -224,9 +224,9 @@ all: CMakeFiles/5_fibonacci_number_again.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/5_fibonacci_number_again.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/5_fibonacci_number_again.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles 0
 .PHONY : CMakeFiles/5_fibonacci_number_again.dir/rule
 
 # Convenience name for target.
@@ -251,7 +251,7 @@ clean: CMakeFiles/5_fibonacci_number_again.dir/clean
 CMakeFiles/3_greatest_common_divisor.dir/all:
 	$(MAKE) -f CMakeFiles/3_greatest_common_divisor.dir/build.make CMakeFiles/3_greatest_common_divisor.dir/depend
 	$(MAKE) -f CMakeFiles/3_greatest_common_divisor.dir/build.make CMakeFiles/3_greatest_common_divisor.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" --progress-num=5,6 "Built target 3_greatest_common_divisor"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles --progress-num=5,6 "Built target 3_greatest_common_divisor"
 .PHONY : CMakeFiles/3_greatest_common_divisor.dir/all
 
 # Include target in all.
@@ -261,9 +261,9 @@ all: CMakeFiles/3_greatest_common_divisor.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/3_greatest_common_divisor.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/3_greatest_common_divisor.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles 0
 .PHONY : CMakeFiles/3_greatest_common_divisor.dir/rule
 
 # Convenience name for target.
@@ -288,7 +288,7 @@ clean: CMakeFiles/3_greatest_common_divisor.dir/clean
 CMakeFiles/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers.dir/all:
 	$(MAKE) -f CMakeFiles/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers.dir/build.make CMakeFiles/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers.dir/depend
 	$(MAKE) -f CMakeFiles/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers.dir/build.make CMakeFiles/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" --progress-num=15,16 "Built target 8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles --progress-num=15,16 "Built target 8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers"
 .PHONY : CMakeFiles/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers.dir/all
 
 # Include target in all.
@@ -298,9 +298,9 @@ all: CMakeFiles/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles 0
 .PHONY : CMakeFiles/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers.dir/rule
 
 # Convenience name for target.
@@ -325,7 +325,7 @@ clean: CMakeFiles/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers.dir/cl
 CMakeFiles/4_least_common_multiple.dir/all:
 	$(MAKE) -f CMakeFiles/4_least_common_multiple.dir/build.make CMakeFiles/4_least_common_multiple.dir/depend
 	$(MAKE) -f CMakeFiles/4_least_common_multiple.dir/build.make CMakeFiles/4_least_common_multiple.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" --progress-num=7,8 "Built target 4_least_common_multiple"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles --progress-num=7,8 "Built target 4_least_common_multiple"
 .PHONY : CMakeFiles/4_least_common_multiple.dir/all
 
 # Include target in all.
@@ -335,9 +335,9 @@ all: CMakeFiles/4_least_common_multiple.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/4_least_common_multiple.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/4_least_common_multiple.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/build/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles 0
 .PHONY : CMakeFiles/4_least_common_multiple.dir/rule
 
 # Convenience name for target.

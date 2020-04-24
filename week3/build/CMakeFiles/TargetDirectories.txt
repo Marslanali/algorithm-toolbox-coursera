@@ -1,9 +1,9 @@
-/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/edit_cache.dir
-/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/1_money_change.dir
-/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/rebuild_cache.dir
-/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/7_maximum_salary.dir
-/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/4_maximum_advertisement_revenue.dir
-/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/5_collecting_signatures.dir
-/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/2_maximum_value_of_the_loot.dir
-/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/6_maximum_number_of_prizes.dir
-/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/3_car_fueling.dir
+/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/edit_cache.dir
+/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/1_money_change.dir
+/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/rebuild_cache.dir
+/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/7_maximum_salary.dir
+/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/4_maximum_advertisement_revenue.dir
+/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/5_collecting_signatures.dir
+/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/2_maximum_value_of_the_loot.dir
+/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/6_maximum_number_of_prizes.dir
+/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/3_car_fueling.dir

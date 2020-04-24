@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1/src/sum-of-two-digits/aplusb.cpp
+iostream
+-
+

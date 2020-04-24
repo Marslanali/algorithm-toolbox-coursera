@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/algorithm-toolbox-coursera/week2/src/1_fibonacci_number/fibonacci.cpp
+/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/src/1_fibonacci_number/fibonacci.cpp
 iostream
 -
 cassert
