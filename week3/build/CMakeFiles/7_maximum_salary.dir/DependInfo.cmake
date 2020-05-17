@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/src/7_maximum_salary/largest_number.cpp" "/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/7_maximum_salary.dir/src/7_maximum_salary/largest_number.cpp.o"
+  "/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/src/7_maximum_salary/largest_number.cpp" "/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/7_maximum_salary.dir/src/7_maximum_salary/largest_number.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

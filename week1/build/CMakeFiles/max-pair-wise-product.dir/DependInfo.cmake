@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1/src/max-pair-wise-product/max_pairwise_product.cpp" "/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1/build/CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.o"
+  "/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/src/max-pair-wise-product/max_pairwise_product.cpp" "/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/build/CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/5_collecting_signatures.dir/src/5_collecting_signatures/covering_segments.cpp.o  -o 5_collecting_signatures 
+/usr/bin/c++      CMakeFiles/5_collecting_signatures.dir/src/5_collecting_signatures/covering_segments.cpp.o  -o 5_collecting_signatures 

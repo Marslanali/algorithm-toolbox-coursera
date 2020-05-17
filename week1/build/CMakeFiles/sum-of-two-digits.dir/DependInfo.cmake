@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1/src/sum-of-two-digits/aplusb.cpp" "/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1/build/CMakeFiles/sum-of-two-digits.dir/src/sum-of-two-digits/aplusb.cpp.o"
+  "/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/src/sum-of-two-digits/aplusb.cpp" "/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/build/CMakeFiles/sum-of-two-digits.dir/src/sum-of-two-digits/aplusb.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

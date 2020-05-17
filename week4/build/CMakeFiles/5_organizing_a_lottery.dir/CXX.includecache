@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/src/5_organizing_a_lottery/points_and_segments.cpp
+/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/src/5_organizing_a_lottery/points_and_segments.cpp
 iostream
 -
 vector

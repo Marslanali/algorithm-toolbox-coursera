@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/src/3_greatest_common_divisor/gcd.cpp" "/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles/3_greatest_common_divisor.dir/src/3_greatest_common_divisor/gcd.cpp.o"
+  "/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week2/src/3_greatest_common_divisor/gcd.cpp" "/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles/3_greatest_common_divisor.dir/src/3_greatest_common_divisor/gcd.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

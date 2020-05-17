@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/4_maximum_advertisement_revenue.dir/src/4_maximum_advertisement_revenue/dot_product.cpp.o  -o 4_maximum_advertisement_revenue 
+/usr/bin/c++      CMakeFiles/4_maximum_advertisement_revenue.dir/src/4_maximum_advertisement_revenue/dot_product.cpp.o  -o 4_maximum_advertisement_revenue 

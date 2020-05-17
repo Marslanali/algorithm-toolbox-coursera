@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/src/4_maximum_advertisement_revenue/dot_product.cpp" "/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/4_maximum_advertisement_revenue.dir/src/4_maximum_advertisement_revenue/dot_product.cpp.o"
+  "/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/src/4_maximum_advertisement_revenue/dot_product.cpp" "/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/4_maximum_advertisement_revenue.dir/src/4_maximum_advertisement_revenue/dot_product.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

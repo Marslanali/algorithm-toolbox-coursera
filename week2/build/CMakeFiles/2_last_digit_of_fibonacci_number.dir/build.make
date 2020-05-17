@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2
+CMAKE_SOURCE_DIR = /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build
+CMAKE_BINARY_DIR = /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week2/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/2_last_digit_of_fibonacci_number.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/2_last_digit_of_fibonacci_number.dir/flags.make
 
 CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp.o: CMakeFiles/2_last_digit_of_fibonacci_number.dir/flags.make
 CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp.o: ../src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp.o -c /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp.o -c /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week2/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp
 
 CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp > CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week2/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp > CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp.i
 
 CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp -o CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week2/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp -o CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp.s
 
 CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp.o.requires:
 
@@ -91,7 +91,7 @@ CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_nu
 2_last_digit_of_fibonacci_number: CMakeFiles/2_last_digit_of_fibonacci_number.dir/src/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp.o
 2_last_digit_of_fibonacci_number: CMakeFiles/2_last_digit_of_fibonacci_number.dir/build.make
 2_last_digit_of_fibonacci_number: CMakeFiles/2_last_digit_of_fibonacci_number.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 2_last_digit_of_fibonacci_number"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 2_last_digit_of_fibonacci_number"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/2_last_digit_of_fibonacci_number.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/2_last_digit_of_fibonacci_number.dir/clean:
 .PHONY : CMakeFiles/2_last_digit_of_fibonacci_number.dir/clean
 
 CMakeFiles/2_last_digit_of_fibonacci_number.dir/depend:
-	cd /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2 /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2 /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles/2_last_digit_of_fibonacci_number.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week2 /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week2 /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week2/build /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week2/build /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week2/build/CMakeFiles/2_last_digit_of_fibonacci_number.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/2_last_digit_of_fibonacci_number.dir/depend
 

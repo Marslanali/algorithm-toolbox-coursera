@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4"
+CMAKE_SOURCE_DIR = /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/build"
+CMAKE_BINARY_DIR = /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/4_number_of_inversions.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/4_number_of_inversions.dir/flags.make
 
 CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.o: CMakeFiles/4_number_of_inversions.dir/flags.make
 CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.o: ../src/4_number_of_inversions/inversions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.o -c "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/src/4_number_of_inversions/inversions.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.o -c /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/src/4_number_of_inversions/inversions.cpp
 
 CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/src/4_number_of_inversions/inversions.cpp" > CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/src/4_number_of_inversions/inversions.cpp > CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.i
 
 CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/src/4_number_of_inversions/inversions.cpp" -o CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/src/4_number_of_inversions/inversions.cpp -o CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.s
 
 CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.o.requires:
 
@@ -91,7 +91,7 @@ CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.
 4_number_of_inversions: CMakeFiles/4_number_of_inversions.dir/src/4_number_of_inversions/inversions.cpp.o
 4_number_of_inversions: CMakeFiles/4_number_of_inversions.dir/build.make
 4_number_of_inversions: CMakeFiles/4_number_of_inversions.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 4_number_of_inversions"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 4_number_of_inversions"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/4_number_of_inversions.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/4_number_of_inversions.dir/clean:
 .PHONY : CMakeFiles/4_number_of_inversions.dir/clean
 
 CMakeFiles/4_number_of_inversions.dir/depend:
-	cd "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4" "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4" "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/build" "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/build" "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/build/CMakeFiles/4_number_of_inversions.dir/DependInfo.cmake" --color=$(COLOR)
+	cd /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4 /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4 /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/build /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/build /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/build/CMakeFiles/4_number_of_inversions.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/4_number_of_inversions.dir/depend
 

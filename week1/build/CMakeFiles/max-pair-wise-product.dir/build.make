@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1
+CMAKE_SOURCE_DIR = /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1/build
+CMAKE_BINARY_DIR = /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/max-pair-wise-product.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/max-pair-wise-product.dir/flags.make
 
 CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.o: CMakeFiles/max-pair-wise-product.dir/flags.make
 CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.o: ../src/max-pair-wise-product/max_pairwise_product.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.o -c /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1/src/max-pair-wise-product/max_pairwise_product.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.o -c /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/src/max-pair-wise-product/max_pairwise_product.cpp
 
 CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1/src/max-pair-wise-product/max_pairwise_product.cpp > CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/src/max-pair-wise-product/max_pairwise_product.cpp > CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.i
 
 CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1/src/max-pair-wise-product/max_pairwise_product.cpp -o CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/src/max-pair-wise-product/max_pairwise_product.cpp -o CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.s
 
 CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.o.requires:
 
@@ -91,7 +91,7 @@ max__pair__wise__product_EXTERNAL_OBJECTS =
 max-pair-wise-product: CMakeFiles/max-pair-wise-product.dir/src/max-pair-wise-product/max_pairwise_product.cpp.o
 max-pair-wise-product: CMakeFiles/max-pair-wise-product.dir/build.make
 max-pair-wise-product: CMakeFiles/max-pair-wise-product.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable max-pair-wise-product"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable max-pair-wise-product"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/max-pair-wise-product.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/max-pair-wise-product.dir/clean:
 .PHONY : CMakeFiles/max-pair-wise-product.dir/clean
 
 CMakeFiles/max-pair-wise-product.dir/depend:
-	cd /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1 /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1 /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1/build /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1/build /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week1/build/CMakeFiles/max-pair-wise-product.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1 /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1 /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/build /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/build /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/build/CMakeFiles/max-pair-wise-product.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/max-pair-wise-product.dir/depend
 

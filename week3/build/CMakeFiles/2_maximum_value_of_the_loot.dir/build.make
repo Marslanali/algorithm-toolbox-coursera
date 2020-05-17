@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3
+CMAKE_SOURCE_DIR = /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build
+CMAKE_BINARY_DIR = /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/2_maximum_value_of_the_loot.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/2_maximum_value_of_the_loot.dir/flags.make
 
 CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp.o: CMakeFiles/2_maximum_value_of_the_loot.dir/flags.make
 CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp.o: ../src/2_maximum_value_of_the_loot/fractional_knapsack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp.o -c /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp.o -c /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp
 
 CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp > CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp > CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp.i
 
 CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp -o CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp -o CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp.s
 
 CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp.o.requires:
 
@@ -91,7 +91,7 @@ CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fract
 2_maximum_value_of_the_loot: CMakeFiles/2_maximum_value_of_the_loot.dir/src/2_maximum_value_of_the_loot/fractional_knapsack.cpp.o
 2_maximum_value_of_the_loot: CMakeFiles/2_maximum_value_of_the_loot.dir/build.make
 2_maximum_value_of_the_loot: CMakeFiles/2_maximum_value_of_the_loot.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 2_maximum_value_of_the_loot"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 2_maximum_value_of_the_loot"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/2_maximum_value_of_the_loot.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/2_maximum_value_of_the_loot.dir/clean:
 .PHONY : CMakeFiles/2_maximum_value_of_the_loot.dir/clean
 
 CMakeFiles/2_maximum_value_of_the_loot.dir/depend:
-	cd /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3 /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3 /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build /home/arslanali/arslan-ali/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/2_maximum_value_of_the_loot.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3 /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3 /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build /home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/2_maximum_value_of_the_loot.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/2_maximum_value_of_the_loot.dir/depend
 

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/src/3_improving_quicksort/sorting.cpp" "/home/arslanali/Arslan Ali/arslan-data/coursera/algorithm-data-structurs/course1-alogrithm-toolbox/my-solutions/week4/build/CMakeFiles/3_improving_quicksort.dir/src/3_improving_quicksort/sorting.cpp.o"
+  "/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/src/3_improving_quicksort/sorting.cpp" "/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/build/CMakeFiles/3_improving_quicksort.dir/src/3_improving_quicksort/sorting.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
