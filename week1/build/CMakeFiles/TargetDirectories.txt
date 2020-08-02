@@ -1,4 +1,0 @@
-/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/build/CMakeFiles/edit_cache.dir
-/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/build/CMakeFiles/rebuild_cache.dir
-/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/build/CMakeFiles/sum-of-two-digits.dir
-/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week1/build/CMakeFiles/max-pair-wise-product.dir

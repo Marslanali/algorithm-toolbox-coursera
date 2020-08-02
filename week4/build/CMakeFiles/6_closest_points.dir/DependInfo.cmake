@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/src/6_closest_points/closest.cpp" "/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/build/CMakeFiles/6_closest_points.dir/src/6_closest_points/closest.cpp.o"
+  "/home/arslan/arslan-data/arslan-data-others/coursera/algorithm-toolbox-coursera/week4/src/6_closest_points/closest.cpp" "/home/arslan/arslan-data/arslan-data-others/coursera/algorithm-toolbox-coursera/week4/build/CMakeFiles/6_closest_points.dir/src/6_closest_points/closest.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

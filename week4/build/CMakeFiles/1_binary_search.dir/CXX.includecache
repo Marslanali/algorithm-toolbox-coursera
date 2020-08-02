@@ -6,10 +6,10 @@
 
 #IncludeRegexTransform: 
 
-/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/src/1_binary_search/binary_search.cpp
-iostream
--
+/home/arslan/arslan-data/arslan-data-others/coursera/algorithm-toolbox-coursera/week4/src/1_binary_search/binary_search.cpp
 cassert
+-
+iostream
 -
 vector
 -

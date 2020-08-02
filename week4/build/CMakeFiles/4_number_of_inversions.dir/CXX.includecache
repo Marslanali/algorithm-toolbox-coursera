@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week4/src/4_number_of_inversions/inversions.cpp
+/home/arslan/arslan-data/arslan-data-others/coursera/algorithm-toolbox-coursera/week4/src/4_number_of_inversions/inversions.cpp
 iostream
 -
 vector

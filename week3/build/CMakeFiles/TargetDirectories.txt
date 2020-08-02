@@ -1,9 +1,0 @@
-/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/edit_cache.dir
-/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/1_money_change.dir
-/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/rebuild_cache.dir
-/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/7_maximum_salary.dir
-/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/4_maximum_advertisement_revenue.dir
-/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/5_collecting_signatures.dir
-/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/2_maximum_value_of_the_loot.dir
-/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/6_maximum_number_of_prizes.dir
-/home/arslan/arslan-data/coursera/algorithm-toolbox-coursera/week3/build/CMakeFiles/3_car_fueling.dir

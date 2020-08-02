@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/5_longest_common_subsequence_of_three_sequences.dir/src/5_longest_common_subsequence_of_three_sequences/lcs3.cpp.o  -o 5_longest_common_subsequence_of_three_sequences 

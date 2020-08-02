@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/1_maximum_amount_of_gold.dir/src/1_maximum_amount_of_gold/knapsack.cpp.o  -o 1_maximum_amount_of_gold 
