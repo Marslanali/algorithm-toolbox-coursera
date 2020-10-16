@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="week4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_majority_element">
+				<Option output="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/2_majority_element" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_majority_element"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_majority_element/fast">
+				<Option output="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/2_majority_element" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_majority_element/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6_closest_points">
+				<Option output="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/6_closest_points" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 6_closest_points"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6_closest_points/fast">
+				<Option output="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/6_closest_points" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 6_closest_points/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_improving_quicksort">
+				<Option output="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/3_improving_quicksort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_improving_quicksort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_improving_quicksort/fast">
+				<Option output="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/3_improving_quicksort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_improving_quicksort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_binary_search">
+				<Option output="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/1_binary_search" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 1_binary_search"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_binary_search/fast">
+				<Option output="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/1_binary_search" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 1_binary_search/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_number_of_inversions">
+				<Option output="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/4_number_of_inversions" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_number_of_inversions"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_number_of_inversions/fast">
+				<Option output="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/4_number_of_inversions" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_number_of_inversions/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_organizing_a_lottery">
+				<Option output="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/5_organizing_a_lottery" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 5_organizing_a_lottery"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_organizing_a_lottery/fast">
+				<Option output="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/5_organizing_a_lottery" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 5_organizing_a_lottery/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/arslan/data-structure-and-algorithms/week4/src/1_binary_search/binary_search.cpp">
+			<Option target="1_binary_search"/>
+		</Unit>
+		<Unit filename="/home/arslan/data-structure-and-algorithms/week4/src/2_majority_element/majority_element.cpp">
+			<Option target="2_majority_element"/>
+		</Unit>
+		<Unit filename="/home/arslan/data-structure-and-algorithms/week4/src/3_improving_quicksort/sorting.cpp">
+			<Option target="3_improving_quicksort"/>
+		</Unit>
+		<Unit filename="/home/arslan/data-structure-and-algorithms/week4/src/4_number_of_inversions/inversions.cpp">
+			<Option target="4_number_of_inversions"/>
+		</Unit>
+		<Unit filename="/home/arslan/data-structure-and-algorithms/week4/src/5_organizing_a_lottery/points_and_segments.cpp">
+			<Option target="5_organizing_a_lottery"/>
+		</Unit>
+		<Unit filename="/home/arslan/data-structure-and-algorithms/week4/src/6_closest_points/closest.cpp">
+			<Option target="6_closest_points"/>
+		</Unit>
+		<Unit filename="/home/arslan/data-structure-and-algorithms/week4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

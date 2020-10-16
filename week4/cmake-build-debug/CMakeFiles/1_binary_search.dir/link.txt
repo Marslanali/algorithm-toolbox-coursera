@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1_binary_search.dir/src/1_binary_search/binary_search.cpp.o  -o 1_binary_search 

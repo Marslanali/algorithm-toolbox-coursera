@@ -1,0 +1,8 @@
+/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/CMakeFiles/2_majority_element.dir
+/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/CMakeFiles/6_closest_points.dir
+/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/CMakeFiles/3_improving_quicksort.dir
+/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/CMakeFiles/1_binary_search.dir
+/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/CMakeFiles/4_number_of_inversions.dir
+/home/arslan/data-structure-and-algorithms/week4/cmake-build-debug/CMakeFiles/5_organizing_a_lottery.dir

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arslan/data-structure-and-algorithms/week1/src/max-pair-wise-product/max_pairwise_product.cpp
+iostream
+-
+vector
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/sum-of-two-digits.dir/src/sum-of-two-digits/aplusb.cpp.o  -o sum-of-two-digits 
